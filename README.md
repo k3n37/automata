@@ -1,4 +1,4 @@
-# automation-tools
+# automata
 
 Focused automation utilities for repetitive engineering workflows and operational tasks.
 
@@ -8,9 +8,9 @@ This repo exists to keep common workflow automation small, scriptable, and reusa
 
 ## Role in the ecosystem
 
-- Neighbor to `devops-toolkit`
+- Neighbor to `anvil`
 - Supports `relay`
-- Used by `orbit` and `saas-platform`
+- Used by `orbit` and `summit`
 
 ## Status
 
@@ -23,7 +23,7 @@ Starter Go CLI with one useful batch-style command.
 ## Structure
 
 ```text
-automation-tools/
+automata/
 ├── cmd/
 │   └── autom8/
 │       └── main.go
@@ -44,7 +44,7 @@ go run ./cmd/autom8 run
 
 ## Related repositories
 
-- `devops-toolkit`
+- `anvil`
 - `relay`
 - `orbit`
 
