@@ -9,8 +9,8 @@ This repo exists to keep common workflow automation small, scriptable, and reusa
 ## Role in the ecosystem
 
 - Neighbor to `devops-toolkit`
-- Supports `internal-developer-platform`
-- Used by `master-platform` and `saas-platform`
+- Supports `relay`
+- Used by `orbit` and `saas-platform`
 
 ## Status
 
@@ -45,8 +45,8 @@ go run ./cmd/autom8 run
 ## Related repositories
 
 - `devops-toolkit`
-- `internal-developer-platform`
-- `master-platform`
+- `relay`
+- `orbit`
 
 ## Future direction
 
